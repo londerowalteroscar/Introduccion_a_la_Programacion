@@ -14,3 +14,23 @@ Es la unidad mínima de información. Son datos porque no contienen un significa
 - REAL: numerico que posee parte decimal.
 - LOGICO: TRUE or FALSE
 - CARACTTER: letras/caracteres.
+
+VARIABLES:
+
+Constantes: variables que no varían su valor en la ejecución del programa.
+
+Las Variables en programación (al igual que en matemática) son valores que pueden cambiar durante un determinado período de tiempo; en el caso de la programación o los algoritmos, en el período de tiempo que dure la ejecución de un programa.  
+
+- Pueden tener un solo tipo de dato.
+- Su valor inicial es desconocido.
+- Ocupa una posición en memoria.
+
+Reglas para Nombres de Variables:
+
+- Representativo de lo que guarda o almacena.
+- Debe comenzar con letras.
+- No puede tener espacios en blanco.
+- No puede tener simbolos especiales o de puntuacion.
+- puede tener guion bajo.
+- No pueden llamarse como las palabras reservadas.
+
