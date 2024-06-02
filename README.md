@@ -159,3 +159,27 @@ inicio
 fin
 ```
 
+### (SI - SINO) ANIDADOS
+
+```// suma
+entero num
+inicio
+  num <--- 5
+  si(num > 3)entonces
+   escribir(num, "Es Mayor")
+  sino
+   si(num = 3)entonces
+      escribir(num, "Es Igual")
+   sino
+      escribir(num, "Es Menor")
+   fin si
+  fin si
+fin
+```
+
+# Estructuras Repetitivas
+
+## Estructura Repetitiva REPETIR (while)
+
+A la hora de programar, además de existir las estructuras selectivas (como vimos en las clases anteriores), tenemos a las estructuras repetitivas. ¿Qué nos permiten hacer éstas? Repetir determinada porción de código una «n» cantidad de veces dependiendo de una condición que puede llegar a cumplirse o no. Entre las dos estructuras más conocidas tenemos al repetir (repeat o do while en inglés) y el mientras (también conocido como while). En la clase de hoy vamos a ver la primera de ellas: El REPETIR.
+
