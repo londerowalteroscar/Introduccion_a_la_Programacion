@@ -101,3 +101,61 @@ Las operaciones entre variables se dividen en tres categorías principales: arit
  
 Estas son algunas de las operaciones más comunes que se realizan entre variables en programación. Cada tipo de operación tiene su propia sintaxis y reglas de uso, pero en general se utilizan para manipular y comparar valores de variables de diferentes maneras.
 
+## EJEMPLOS
+
+![NO SE ENCONTRO IMAGEN](img/DIAGRAMA_DE_FLUJO.webp)
+
+![NO SE ENCONTRO IMAGEN](img/DIAGRAMA_EJEMPLO.png)
+
+## Aritmeticas
+
+Pseudocódigo:
+
+```// suma
+entero num1, num2, suma
+inicio
+  num1 <--- 5
+  num2 <--- 10
+  suma <--- num1 + num2
+  escribir suma
+fin
+```
+
+```// suma
+entero num1, num2, suma
+inicio
+  leer (num1, num2)
+  suma <--- num1 + num2
+  escribir suma
+fin
+```
+
+## Condicionales
+
+### SI
+
+```// suma
+entero num1, num2
+inicio
+  num1 <--- 5
+  num2 <--- 10
+  si(num1>num2)entonces
+   escribir("Es Mayor")
+  fin si
+fin
+```
+### SI - SINO
+
+```// suma
+entero num1, num2
+inicio
+  num1 <--- 5
+  num2 <--- 10
+  si(num1>num2)entonces
+   escribir(num1, "Es Mayor")
+  sino
+   escribir(num1, "Es Menor")
+  fin si
+fin
+```
+
