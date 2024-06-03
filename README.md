@@ -179,7 +179,22 @@ fin
 
 # Estructuras Repetitivas
 
-## Estructura Repetitiva REPETIR (while)
+## Estructura Repetitiva REPETIR
 
 A la hora de programar, además de existir las estructuras selectivas (como vimos en las clases anteriores), tenemos a las estructuras repetitivas. ¿Qué nos permiten hacer éstas? Repetir determinada porción de código una «n» cantidad de veces dependiendo de una condición que puede llegar a cumplirse o no. Entre las dos estructuras más conocidas tenemos al repetir (repeat o do while en inglés) y el mientras (también conocido como while). En la clase de hoy vamos a ver la primera de ellas: El REPETIR.
 
+![NO SE ENCONTRO IMAGEN](img/ESTRUCTURA_REPETIR.png)
+
+## Estructura Repetitiva MIENTRAS
+
+En la clase anterior vimos una de las estructuras repetitivas más simples: El Repetir. Sin embargo, en el mundo de la programación, existe una estructura repetitiva que es una de las más utilizadas: El mientras (While) cuyas lógica y funcionamiento varían un poco respecto a la del repetir. En la clase de hoy vamos a ver como utilizarla paso a paso y algunos ejemplos de su implementación.
+
+![NO SE ENCONTRO IMAGEN](img/ESTRUCTURA_MIENTRAS.png)
+
+![NO SE ENCONTRO IMAGEN](img/ESTRUCTURA_MIENTRAS2.png)
+
+## Bucles controlador por CENTINELA y CONTADOR
+
+Sin dudas es inevitable que surja el concepto BUCLE cuando hablamos de estructuras repetitivas. Un bucle, tal como su forma lo indica, es cada una de las «vueltas» o «repeticiones» que hace nuestro código cuando implementamos alguna de estas estructuras, ahora… ¿Cómo podemos controlar estos bucles? ¿Cómo podemos hacer que paren en un determinado momento o se sigan ejecutando? En la clase de hoy te mostramos como lograrlo de manera sencilla.
+
+    
