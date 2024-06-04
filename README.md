@@ -197,4 +197,9 @@ En la clase anterior vimos una de las estructuras repetitivas más simples: El R
 
 Sin dudas es inevitable que surja el concepto BUCLE cuando hablamos de estructuras repetitivas. Un bucle, tal como su forma lo indica, es cada una de las «vueltas» o «repeticiones» que hace nuestro código cuando implementamos alguna de estas estructuras, ahora… ¿Cómo podemos controlar estos bucles? ¿Cómo podemos hacer que paren en un determinado momento o se sigan ejecutando? En la clase de hoy te mostramos como lograrlo de manera sencilla.
 
-    
+![NO SE ENCONTRO IMAGEN](img/ESTRUCTURA_REPETIR_CONTADOR_CENTINELA.png)
+
+# Arreglos (ARRAYS): Vectores
+
+Muchas veces a la hora de programar tenemos que guardar muchos datos. Para estos casos, crear una variable para cada uno de ellos podría conllevarnos a tener una cantidad exagerada de ellas; es por ello que se utilizan lo que conocemos como arreglos o arrays. ¿Qué son los arreglos o arrays? Son estructuras especiales que nos permiten guardar un conjunto de datos (que pueden estar relacionados o no). Existen arreglos unidimensionales (de una dimensión) y bidimensionales (de dos dimensiones). En la clase de hoy vamos a empezar a ver los unidimensionales más conocidos… LOS VECTORES.
+
